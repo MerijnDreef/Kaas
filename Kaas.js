@@ -1,5 +1,5 @@
 alert("Beantwoord deze vragen met ja of nee");
-var vraag1 = prompt("Is de kaas geel?");
+ var vraag1 = prompt("Is de kaas geel?");
 if (vraag1 == "ja"){
     
     document.write("uw kaas is geel"+"<br>")
